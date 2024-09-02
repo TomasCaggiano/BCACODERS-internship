@@ -1,0 +1,127 @@
+
+.home {
+    margin-left: 175px;
+    padding: 20px;
+    background-color: #f4f7f9;
+    min-height: 100vh;
+    min-width: 127vh;
+  }
+  
+  .home h1 {
+    font-size: 28px;
+    color: #2c3e50;
+  }
+  
+  .home hr {
+    border: none;
+    height: 2px;
+    background-color: #2980b9;
+    margin: 20px 0;
+  }
+  
+  .user-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ecf0f1;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-info span {
+    font-size: 18px;
+    color: #34495e;
+  }
+  
+  .user-info button {
+    background-color: #2980b9;
+    color: #ecf0f1;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .user-info button:hover {
+    background-color: #3498db;
+  }
+  
+  .course-menu {
+    background-color: #ecf0f1;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 43rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: absolute;
+  }
+  
+  .course-menu ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .course-menu ul li {
+    margin-bottom: 10px;
+  }
+  
+  .course-menu ul li a {
+    color: #2980b9;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .course-menu ul li a:hover {
+    color: #3498db;
+  }
+  
+  .courses {
+    margin-bottom: 40px;
+  }
+  
+  .courses h2 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  .course-item {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .course-item h3 {
+    font-size: 20px;
+    color: #2980b9;
+    margin-bottom: 10px;
+  }
+  
+  .course-item p {
+    font-size: 16px;
+    color: #34495e;
+    margin: 5px 0;
+  }
+  
+  .course-item button {
+    background-color: #2980b9;
+    color: #ecf0f1;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+  }
+  
+  .course-item button:hover {
+    background-color: #3498db;
+  }
+  

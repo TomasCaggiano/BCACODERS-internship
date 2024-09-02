@@ -1,0 +1,72 @@
+.about-us {
+    min-height: 100vh;
+    width: 100vw;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+  }
+  
+  h1, h2 {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  
+  .team-member {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 300px;
+  }
+  
+  .team-member img {
+    border-radius: 50%;
+    max-width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .team-member h3 {
+    margin: 10px 0;
+    font-size: 1.5rem;
+  }
+  
+  .team-member p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .mission {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .mission p {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.6;
+  }

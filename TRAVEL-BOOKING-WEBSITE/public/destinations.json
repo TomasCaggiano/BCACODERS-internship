@@ -1,0 +1,82 @@
+[
+  {
+    "PlaceId": "1",
+    "PlaceName": "New York City",
+    "Img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/288px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+    "description": "La ciudad que nunca duerme, famosa por sus rascacielos, Broadway, y el Central Park.",
+    "touristDestinations": [
+      "Times Square",
+      "Statue of Liberty",
+      "Central Park",
+      "Empire State Building",
+      "Broadway"
+    ],
+    "priceRange": "$250 - $500",
+    "bestTravelTime": "Primavera y Otoño",
+    "averageTemperature": "13°C - 28°C"
+  },
+  {
+    "PlaceId": "2",
+    "PlaceName": "Los Angeles",
+    "Img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Los_Angeles_with_Mount_Baldy.jpg/278px-Los_Angeles_with_Mount_Baldy.jpg",
+    "description": "La capital del entretenimiento, conocida por Hollywood, playas y clima cálido.",
+    "touristDestinations": [
+      "Hollywood Walk of Fame",
+      "Griffith Observatory",
+      "Santa Monica Pier",
+      "Venice Beach",
+      "Hollywood Sign"
+    ],
+    "priceRange": "$300 - $600",
+    "bestTravelTime": "Todo el año",
+    "averageTemperature": "15°C - 30°C"
+  },
+  {
+    "PlaceId": "3",
+    "PlaceName": "San Francisco",
+    "Img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg/288px-San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg",
+    "description": "Conocida por su icónico puente Golden Gate, sus colinas y su vibrante escena cultural.",
+    "touristDestinations": [
+      "Golden Gate Bridge",
+      "Alcatraz Island",
+      "Fisherman's Wharf",
+      "Lombard Street",
+      "Chinatown"
+    ],
+    "priceRange": "$350 - $700",
+    "bestTravelTime": "Primavera y Otoño",
+    "averageTemperature": "10°C - 20°C"
+  },
+  {
+    "PlaceId": "4",
+    "PlaceName": "Chicago",
+    "Img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicago_Skyline_in_September_2023_%28cropped%29.jpg/288px-Chicago_Skyline_in_September_2023_%28cropped%29.jpg",
+    "description": "Famosa por su arquitectura impresionante, museos y comida deliciosa como la pizza estilo Chicago.",
+    "touristDestinations": [
+      "Millennium Park",
+      "Navy Pier",
+      "Art Institute of Chicago",
+      "Willis Tower",
+      "Magnificent Mile"
+    ],
+    "priceRange": "$275 - $550",
+    "bestTravelTime": "Primavera y Verano",
+    "averageTemperature": "-5°C - 30°C"
+  },
+  {
+    "PlaceId": "5",
+    "PlaceName": "Miami",
+    "Img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Miami_%2849471683943%29.jpg/288px-Miami_%2849471683943%29.jpg",
+    "description": "Conocida por sus playas de arena blanca, vida nocturna vibrante y cultura latinoamericana.",
+    "touristDestinations": [
+      "South Beach",
+      "Art Deco Historic District",
+      "Miami Zoo",
+      "Little Havana",
+      "Wynwood Walls"
+    ],
+    "priceRange": "$200 - $450",
+    "bestTravelTime": "Invierno",
+    "averageTemperature": "20°C - 30°C"
+  }
+]

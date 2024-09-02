@@ -1,0 +1,130 @@
+.course-detail {
+    margin-left: 175px;
+    padding: 20px;
+    min-width: 125vh;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    min-height: 100vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .course-header h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .course-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .course-info span {
+    margin-right: 20px;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .course-info button {
+    padding: 10px 15px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .course-info button:hover {
+    background-color: #0056b3;
+  }
+  
+  hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+  }
+  
+  .course-program {
+    margin-bottom: 20px;
+  }
+  
+  .course-program h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .course-program button {
+    padding: 10px 15px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .course-program button i {
+    margin-right: 8px;
+  }
+  
+  .course-program button:hover {
+    background-color: #218838;
+  }
+  
+  .course-classes {
+    margin-top: 20px;
+  }
+  
+  .class-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .class-item h3 {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .class-actions {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .class-actions a {
+    text-decoration: none;
+  }
+  
+  .class-actions button {
+    padding: 8px 12px;
+    font-size: 0.9rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .class-actions button:hover {
+    background-color: #0056b3;
+  }
+  
+  .class-actions button i {
+    margin-right: 8px;
+  }
+  

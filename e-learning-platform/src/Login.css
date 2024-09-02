@@ -1,0 +1,117 @@
+.login-container {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #74ebd5, #acb6e5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 160vh;
+    margin: 0;
+    background-size: cover;
+  }
+  
+  .login {
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .login h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .login form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login form div {
+    margin-bottom: 15px;
+  }
+  
+  .login label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+    color: #555;
+  }
+  
+  .login input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+  }
+  
+  .login input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .login button {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .login button:hover {
+    background-color: #0056b3;
+  }
+  
+  .login p {
+    color: #e74c3c;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+  }
+  /* Estilos para el contenedor del menú de cursos */
+.course-menu {
+    position: absolute;
+    top: 50px; /* Ajusta según la posición del botón */
+    left: 0;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  /* Estilos para la lista de opciones del menú */
+  .course-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .course-menu ul li {
+    margin-bottom: 10px;
+  }
+  
+  .course-menu ul li a {
+    color: #2980b9;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .course-menu ul li a:hover {
+    color: #3498db;
+  }
+  
+  /* Asegurarse de que el contenido debajo no se mueva cuando el menú está abierto */
+  .user-info {
+    position: relative;
+  }
+  

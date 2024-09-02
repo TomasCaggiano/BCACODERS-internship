@@ -1,0 +1,9 @@
+.weather-display {
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    height: 300px;
+  }

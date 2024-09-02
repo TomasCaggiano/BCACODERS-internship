@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "destination": "New York City",
+    "price": 250,
+    "airline": "Delta Airlines",
+    "flightNumber": "DL123",
+    "duration": "6h 30m",
+    "departureTime": "2024-08-20T08:00:00Z",
+    "arrivalTime": "2024-08-20T14:30:00Z",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LGA"
+  },
+  {
+    "id": "2",
+    "destination": "Los Angeles",
+    "price": 300,
+    "airline": "American Airlines",
+    "flightNumber": "AA456",
+    "duration": "5h 45m",
+    "departureTime": "2024-08-20T09:00:00Z",
+    "arrivalTime": "2024-08-20T14:45:00Z",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "id": "3",
+    "destination": "San Francisco",
+    "price": 350,
+    "airline": "United Airlines",
+    "flightNumber": "UA789",
+    "duration": "6h 15m",
+    "departureTime": "2024-08-20T10:00:00Z",
+    "arrivalTime": "2024-08-20T16:15:00Z",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "id": "4",
+    "destination": "Chicago",
+    "price": 275,
+    "airline": "Southwest Airlines",
+    "flightNumber": "SW012",
+    "duration": "4h 50m",
+    "departureTime": "2024-08-20T11:00:00Z",
+    "arrivalTime": "2024-08-20T15:50:00Z",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "id": "5",
+    "destination": "Miami",
+    "price": 200,
+    "airline": "JetBlue Airways",
+    "flightNumber": "JB345",
+    "duration": "3h 30m",
+    "departureTime": "2024-08-20T12:00:00Z",
+    "arrivalTime": "2024-08-20T15:30:00Z",
+    "departureAirport": "JFK",
+    "arrivalAirport": "MIA"
+  }
+]
